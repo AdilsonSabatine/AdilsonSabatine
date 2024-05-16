@@ -1,7 +1,7 @@
 ## Hi there 👋, my name is Adilson
 
 ### 👨‍💻 About me
-I'm a backend developer experienced with developing APIs using Node.js. I'm also experienced with chatbots, I really like the problems them can solve when used for the right application and advocate against creating one just for the sake of having one, the main use case I worked on was chatbots for customer support.
+I'm a backend developer experienced with developing APIs using Node.js and Java Spring Boot. I'm also experienced with chatbots, I really like the problems them can solve when used for the right application and advocate against creating one just for the sake of having one, the main use case I worked on was chatbots for customer support.
 
 - Currently working on...
   - Learning some frontend to work as a fullstack developer
