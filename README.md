@@ -5,7 +5,7 @@ I'm a backend developer experienced with developing APIs using Node.js. I'm also
 
 - Currently working on...
   - Learning some frontend to work as a fullstack developer
-  - A portfolio, hopefully it will de up and running soon. 🤞
+  - A portfolio, hopefully it will be up and running soon. 🤞
 
 ### 📈 Stats
 [![Adilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdilsonSabatine)](https://github.com/anuraghazra/github-readme-stats)
